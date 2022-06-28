@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "Fernando Papito",
+  "author": "Francisco Gorgonho",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^9.1.1",
